@@ -33,7 +33,6 @@ STATICFILES_FINDERS = (
 #    'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
 
-SECRET_KEY = # Put your secret key here. Django defaults to a 50-char string.
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
