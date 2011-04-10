@@ -3,4 +3,5 @@
 *.swp
 *.un~
 *.db
+settings/local.py
 static_root/
